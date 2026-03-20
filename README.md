@@ -1,4 +1,4 @@
-# Loan Payback Analysis - README
+# Loan Payback Analysis
 
 ## Project Overview
 This is a machine learning classification project that predicts whether loans will be paid back. The project uses ensemble learning techniques with multiple base models (XGBoost, CatBoost, Random Forest) combined using stacking to maximize prediction accuracy.
